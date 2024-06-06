@@ -1,6 +1,3 @@
 # test-repo
 
-test
-test again
-
-Third test
+New branch
